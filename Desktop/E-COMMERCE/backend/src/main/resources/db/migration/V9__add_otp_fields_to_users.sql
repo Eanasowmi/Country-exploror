@@ -1,3 +1,0 @@
-ALTER TABLE users
-ADD COLUMN otp_code VARCHAR(10),
-ADD COLUMN otp_expiry TIMESTAMP;
